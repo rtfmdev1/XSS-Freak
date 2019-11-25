@@ -3,7 +3,7 @@
 
 ****
 
-![Screenshot](Screenshot from 2019-11-25 07-09-45.png)
+![Screenshot](proof.png)
 
 **Requirements:**
 
